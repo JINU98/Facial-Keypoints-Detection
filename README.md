@@ -1,6 +1,6 @@
 # Facial Key Points Detection 
 Facial key point detection is crucial for emotional AI based applications like customer response, driver drowziness detection, sentiment anlysis, image filtering etc, while these tasks requires seprate discussion, one thing that we find common in all of them that they may use facial keypoints. To do so in these project we will deal with a CNN architecture to detect facial keypoints from images. I hae also writtern a blog on it providing step by step instruction for making this project.
-You can read the blog here https://jinu-mnist-net.herokuapp.com/ .
+
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
