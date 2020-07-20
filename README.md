@@ -16,7 +16,6 @@ keras
 ```
 pip install streamlit
 pip install tensorflow
-pip install jsonschema
 pip install matplotlib
 pip install keras
 
