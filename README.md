@@ -11,10 +11,12 @@ Things you need to install the software and how to install them:
 tensorflow <br />
 matplotlib <br />
 keras <br />
+streamlit <br />
 ```
 pip install tensorflow
 pip install matplotlib
 pip install keras
+pip install streamlit
 
 ```
 ## Demo
